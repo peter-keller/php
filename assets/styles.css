@@ -6,6 +6,8 @@
 }
 
 body {
+  background: #f5f4f1 url("/assets/img/bg.jpg");
+
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 15px;
   line-height: 20px;
@@ -85,6 +87,10 @@ hr {
   height: 18px;
   width: 114px;
   margin: 20px auto;
+}
+
+.hrImg {
+  background: url("/assets/img/hr.png") center center no-repeat;
 }
 
 small {
